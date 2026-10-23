@@ -1,0 +1,4 @@
+id,question,evidence,supported_answer,unsupported_answer
+1,What was the reported revenue in the supplied document?,The report states that revenue was £12 million in 2025.,Revenue was £12 million in 2025.,Revenue was £20 million in 2025.
+2,Does the supplied document identify the cause of the decline?,Revenue declined by 8%. The report does not explain why.,The cause is not specified in the document.,The decline was caused by higher energy costs.
+3,What was the company's revenue in 2025?,The document contains no revenue figure.,The revenue figure is not provided.,Revenue was £12 million.
