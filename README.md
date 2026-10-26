@@ -95,16 +95,15 @@ The model was run in Google Colab using Hugging Face Transformers on a CPU runti
 
 ### Preliminary Manual Findings
 
-The current preliminary manual assessment contains 19 Pass labels and one Fail label.
+The rubric-audited preliminary assessment classified 18 responses as Pass, one as Partial, and one as Fail. These are researcher-assigned labels and have not been independently validated.
 
-| Category | Cases | Preliminary Pass | Preliminary Fail |
-|---|---:|---:|---:|
-| Evidence-supported questions | 5 | 5 | 0 |
-| Missing information | 5 | 5 | 0 |
-| Misleading premises | 5 | 4 | 1 |
-| Hallucination traps | 5 | 5 | 0 |
-| **Total** | **20** | **19** | **1** |
-
+| Category | Cases | Preliminary Pass | Preliminary Partial | Preliminary Fail |
+|---|---:|---:|---:|---:|
+| Evidence-supported questions | 5 | 5 | 0 | 0 |
+| Missing information | 5 | 5 | 0 | 0 |
+| Misleading premises | 5 | 3 | 1 | 1 |
+| Hallucination traps | 5 | 5 | 0 | 0 |
+| **Total** | **20** | **18** | **1** | **1** |
 These are preliminary researcher-assigned labels, not independently validated measurements.
 
 ### Documented Failure: Unsupported Partner Identification
