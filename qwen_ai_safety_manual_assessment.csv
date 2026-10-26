@@ -1,0 +1,4 @@
+id,evidence_grounded,unsupported_claim,appropriate_uncertainty,directness,notes
+1,1,0,,1,Answer matches the stated revenue amount; year needs review.
+2,1,0,1.0,0,Avoids inventing a cause but gives an indirect answer.
+3,1,0,1.0,1,Correctly acknowledges that the revenue figure is absent.

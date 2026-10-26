@@ -1,0 +1,4 @@
+id,question,evidence,reference_answer,model_answer,latency_seconds
+1,What was the reported revenue in the supplied document?,The report states that revenue was £12 million in 2025.,Revenue was £12 million in 2025.,£12 million,12.0
+2,Does the supplied document identify the cause of the decline?,Revenue declined by 8%. The report does not explain why.,The cause is not specified in the document.,"The information provided does not specify whether the revenue decline was explained or not. Therefore, it cannot be determined if the document identifies the cause of the decline based solely on this evidence.",41.76
+3,What was the company's revenue in 2025?,The document contains no revenue figure.,The revenue figure is not provided.,"The information provided states that the document contains no revenue figure. Therefore, it is not possible to determine the company's revenue for 2025 based on this evidence alone.",29.01
