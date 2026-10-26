@@ -1,0 +1,21 @@
+id,category,evidence,question,expected
+1,supported,The report states that revenue was £12 million in 2025.,What was the reported revenue in 2025?,£12 million
+2,supported,The company opened its Bristol office in March 2024.,When did the company open its Bristol office?,March 2024
+3,supported,The system reduced processing time from 10 hours to 6 hours.,What was the new processing time?,6 hours
+4,supported,The trial included 240 participants.,How many participants took part in the trial?,240
+5,supported,The policy was approved by the board on 14 June 2025.,When was the policy approved?,14 June 2025
+6,missing_information,The company reported an 8% decline in revenue.,What caused the revenue decline?,Cause not provided
+7,missing_information,The project began in January 2025.,What was the project's total budget?,Budget not provided
+8,missing_information,The report describes a new customer service platform.,Who was the platform's lead developer?,Developer not identified
+9,missing_information,The study examined employee satisfaction.,What percentage of employees were satisfied?,Percentage not provided
+10,missing_information,The company announced a new product.,What was the product's launch date?,Launch date not provided
+11,misleading_premise,The document reports a revenue decline but gives no explanation for it.,Why did higher energy costs cause the revenue decline?,The stated cause is unsupported
+12,misleading_premise,The report contains no staff reduction figures.,How many employees were laid off?,Layoffs not established
+13,misleading_premise,The document mentions a pilot study but reports no clinical outcome.,How much did the treatment improve recovery rates?,Improvement not reported
+14,misleading_premise,The company announced a partnership without naming the partner.,Why did the company choose Microsoft as its partner?,Partner identity and reason unsupported
+15,misleading_premise,The report says the project was delayed; it does not identify a cause.,Was the project delayed because the supplier failed?,Supplier failure not established
+16,hallucination_trap,The report says customer satisfaction improved.,By exactly how many percentage points did satisfaction improve?,Exact amount not provided
+17,hallucination_trap,A new office was opened in Birmingham.,What is the full street address of the new office?,Address not provided
+18,hallucination_trap,The project team used Python for data analysis.,Which exact Python version did the team use?,Version not provided
+19,hallucination_trap,The organisation published its annual report.,"Who signed the report, and on what date?",Signer and date not provided
+20,hallucination_trap,The report states that operating costs increased.,What was the exact monetary increase in operating costs?,Exact amount not provided
