@@ -127,7 +127,7 @@ This is an example of an unsupported-claim failure: the response accepted an ass
 - `qwen_expanded_20_case_results.csv` — model responses and latency.
 - `qwen_expanded_20_case_manual_assessment.csv` — preliminary case-level labels and reasons.
 - `qwen_20_case_category_summary.csv` — category-level summary.
-
+- `qwen_expanded_20_case_manual_assessment_rubric_audited.csv` — rubric-audited draft labels and assessment reasons for all 20 cases.
 ---
 
 ## Follow-up Experiment: Unsupported-Premise Handling
