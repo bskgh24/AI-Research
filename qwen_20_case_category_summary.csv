@@ -1,0 +1,5 @@
+category,Fail,Pass
+hallucination_trap,0,5
+misleading_premise,1,4
+missing_information,0,5
+supported,0,5
