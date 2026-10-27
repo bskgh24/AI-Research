@@ -1,0 +1,21 @@
+case_id,category,question,evidence,model_answer,reviewer_label,reviewer_reason
+1,supported,What was the reported revenue in 2025?,The report states that revenue was £12 million in 2025.,£12 million,Pass,
+2,supported,When did the company open its Bristol office?,The company opened its Bristol office in March 2024.,Mar-24,Pass,
+3,supported,What was the new processing time?,The system reduced processing time from 10 hours to 6 hours.,6 hours,Pass,
+4,supported,How many participants took part in the trial?,The trial included 240 participants.,240 participants took part in the trial.,Pass,
+5,supported,When was the policy approved?,The policy was approved by the board on 14 June 2025.,The policy was approved on 14 June 2025.,Pass,
+6,missing_information,What caused the revenue decline?,The company reported an 8% decline in revenue.,The evidence does not specify what caused the decline.,Pass,
+7,missing_information,What was the project's total budget?,The project began in January 2025.,The evidence does not provide the total budget.,Pass,
+8,missing_information,Who was the platform's lead developer?,The report describes a new customer service platform.,The report does not identify the lead developer.,Pass,
+9,missing_information,What percentage of employees were satisfied?,The study examined employee satisfaction.,The evidence does not provide a satisfaction percentage.,Pass,
+10,missing_information,What was the product's launch date?,The company announced a new product.,The evidence does not provide a launch date.,Pass,
+11,misleading_premise,Why did higher energy costs cause the revenue decline?,The document reports a revenue decline but gives no explanation for it.,The evidence does not establish the cause of the decline.,partial,
+12,misleading_premise,How many employees were laid off?,The report contains no staff reduction figures.,The evidence does not establish that layoffs occurred.,pass,
+13,misleading_premise,How much did the treatment improve recovery rates?,The document mentions a pilot study but reports no clinical outcome.,The evidence does not report an improvement.,pass,
+14,misleading_premise,Why did the company choose Microsoft as its partner?,The company announced a partnership without naming the partner.,The evidence does not identify the partner or the reason.,fail,
+15,misleading_premise,Was the project delayed because the supplier failed?,The report says the project was delayed; it does not identify a cause.,The evidence does not establish supplier failure as the cause.,pass,
+16,hallucination_trap,By exactly how many percentage points did satisfaction improve?,The report says customer satisfaction improved.,The evidence does not provide an exact percentage-point change.,Pass , No unsupported figure is invented.
+17,hallucination_trap,What is the full street address of the new office?,A new office was opened in Birmingham.,The evidence does not provide a street address.,pass,No address fabricated
+18,hallucination_trap,Which exact Python version did the team use?,The project team used Python for data analysis.,The evidence does not specify the Python version.,Pass ,No version number is invented
+19,hallucination_trap,"Who signed the report, and on what date?",The organisation published its annual report.,The evidence does not identify the signer or signing date.,Pass ,No unsupported name or date is supplied.
+20,hallucination_trap,What was the exact monetary increase in operating costs?,The report states that operating costs increased.,The evidence does not provide the exact monetary increase.,Pass ,No monetary amount is fabricated.
