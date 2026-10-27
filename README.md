@@ -182,10 +182,8 @@ The ten questions use the same evidence and scenario. They are related probes, n
 
 ### Follow-up Artifacts
 
-- `qwen_unsupported_premise_followup.csv` — model responses and latency for ten question variants.
-- `qwen_unsupported_premise_manual_assessment.csv` — preliminary manual labels and assessment reasons.
-
----
+- [Follow-up Experiment Results](qwen_unsupported_premise_followup.csv) — model responses and latency for ten question variants.
+- [Follow-up Manual Assessment](qwen_unsupported_premise_manual_assessment.csv) — preliminary labels and assessment reasons.
 
 ## Next Research Steps
 
