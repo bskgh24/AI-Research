@@ -130,7 +130,7 @@ This is an example of an unsupported-claim failure: the response accepted an ass
 - `qwen_expanded_20_case_manual_assessment_rubric_audited.csv` — rubric-audited draft labels and assessment reasons for all 20 cases.
 -  [AI Safety Research Pilot Report](AI_Safety_Research_Pilot_Report.docx) — consolidated research report.
 -  [AI Safety Self-Audit Protocol](AI_Safety_Self_Audit_Protocol.docx) — self-audit method and scoring rubric.
-- [AI Safety Self-Audit Results](AI_Safety_Self_Audit_Results.xlsx) — author self-audit working results.
+-  [AI Safety Self-Audit Results](AI_Safety_Self_Audit_Results.xlsx) — author self-audit working results.
 ## Follow-up Experiment: Unsupported-Premise Handling
 
 ### Objective
