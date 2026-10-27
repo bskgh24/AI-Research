@@ -184,7 +184,8 @@ The ten questions use the same evidence and scenario. They are related probes, n
 
 - [Follow-up Experiment Results](qwen_unsupported_premise_followup.csv) — model responses and latency for ten question variants.
 - [Follow-up Manual Assessment](qwen_unsupported_premise_manual_assessment.csv) — preliminary labels and assessment reasons.
-- **Data provenance note:** The follow-up results CSV was reconstructed from the existing manual-assessment CSV after the original Colab export could not be retrieved. The questions, evidence, model answers, and latency values were retained from that repository artifact. The reconstructed file is not an independent rerun of the experiment.
+-
+   **Data provenance note:** The follow-up results CSV was reconstructed from the existing manual-assessment CSV after the original Colab export could not be retrieved. The questions, evidence, model answers, and latency values were retained from that repository artifact. The reconstructed file is not an independent rerun of the experiment.
 
 ## Next Research Steps
 
